@@ -1,28 +1,50 @@
 # Technical Writing Portfolio
 
-Hello, I'm Pujo.
+This repository contains samples of my technical writing work focused on internal documentation and process-oriented explanations.
 
-This repository contains samples of my technical writing, with a focus on creating **clear, honest, and user-friendly documentation** for internal tools and processes.
+The examples are based on simulated internal tools and workflows that reflect real-world documentation needs, such as explaining small scripts, manual processes, and user-facing internal tools.
 
-I emphasize:
-- Simple, plain language for non-technical readers
-- Logical structure and flow
-- Transparent explanation of decisions and limitations
-- Practical guidance that reduces confusion
+The primary goal of this portfolio is to demonstrate how I:
+- understand technical tasks and constraints
+- document workflows clearly and honestly
+- explain decisions and limitations without overclaiming
+- write for non-technical or mixed audiences
 
-The examples here are based on simulated internal tools and exercises.
+## How to Read This Repository
 
-### Samples
+Each folder represents one documentation task.
 
-1. **[CSV File Renaming Tool Documentation](csv-file-renaming-tool.md)**  
-   User guide for a simple Python script that adds consistent prefixes to CSV filenames.
+The folder names include a date to reflect when the task was originally completed.  
+Inside each folder, you will find:
+- a README file containing the documentation
+- supporting files (such as scripts) when relevant
 
-2. **[Internal Request Submission Form Guide](internal-request-form.md)**  
-   Documentation for a basic web form used by staff to submit routine requests.
+The documentation is written to be read independently.  
+No prior knowledge of the code or tools is required.
 
-More samples will be added over time.
+## Scope and Focus
 
-Thank you for visiting!  
-If you're interested in collaboration or remote opportunities, feel free to reach out via LinkedIn or Upwork.
+This portfolio focuses on:
+- internal documentation
+- process explanations
+- small scripts and workflows
+- clarity over complexity
 
-*Last updated: January 2026*
+It does not focus on:
+- marketing content
+- API references
+- system architecture
+- production-level engineering solutions
+
+## Notes on Context
+
+All examples in this repository are documentation exercises based on past internal-style requests.
+
+They are not descriptions of proprietary systems or live production environments.  
+The emphasis is on documentation quality, structure, and communication rather than implementation depth.
+
+## Updates
+
+This repository is updated selectively to reflect new documentation samples or refinements.
+
+Last updated: March 2026
