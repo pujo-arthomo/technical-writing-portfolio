@@ -42,9 +42,3 @@ All examples in this repository are documentation exercises based on past intern
 
 They are not descriptions of proprietary systems or live production environments.  
 The emphasis is on documentation quality, structure, and communication rather than implementation depth.
-
-## Updates
-
-This repository is updated selectively to reflect new documentation samples or refinements.
-
-Last updated: March 2026
